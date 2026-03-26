@@ -1,6 +1,6 @@
 
 # MU / TH / UR Pad
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/PCB%20Diagram.png)
 
 
 A 16 Key Macropad dedicated to honoring the ALIEN Franchise...
@@ -27,11 +27,15 @@ The colors of the case resemble MU / TH / UR (and honestly those old office keyb
 
 Finnally I added a Dither Art of a facehugger strangling a person on the back of the PCB as well as some references to the movies and the famous ALIEN slogan.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/MUTHURpad.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/MUTHURpad%20PCB%20Front.png)
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/MUTHURpad%20PCB%20Back.png)
+
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/PCB%20Schematic.png)
+
+![Logo](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/Pictures/PCB%20Diagram.png)
 ## BOM Table
 
 Also available as a CSV file [BOM.csv](https://github.com/ppppp)!
