@@ -1,0 +1,68 @@
+{
+    "manufacturer": "Martim Mota",
+    "keyboard_name": "MU/TH/UR Unit 759",
+    "maintainer": "Martimm500",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "rgblight": true,
+        "encoder": true,
+        "encoder_map": true,
+        "oled": true
+    },
+    "matrix_pins": {
+        "cols": ["GP5", "GP6", "GP7", "GP14", "GP15"],
+        "rows": ["GP9", "GP10", "GP11", "GP12"]
+    },
+    "processor": "RP2040",
+    "url": "https://hackpad.hackclub.com",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "ws2812": {
+        "driver": "vendor",
+        "pin": "GP13"
+    },
+    "rgblight": {
+        "led_count": 2
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP29", "pin_b": "GP28"}
+        ]
+    },
+    "layouts": {
+        "LAYOUT_muthurpad": {
+            "layout": [
+                
+                {"matrix": [1, 0], "x": 4, "y": 0},
+                {"matrix": [1, 1], "x": 5, "y": 0},
+                {"matrix": [1, 2], "x": 6, "y": 0},
+                {"matrix": [1, 3], "x": 7, "y": 0},
+                
+                {"matrix": [2, 4], "x": 1, "y": 1},
+                {"matrix": [0, 0], "x": 2, "y": 1},
+                
+                {"matrix": [2, 0], "x": 4, "y": 2},
+                {"matrix": [2, 1], "x": 5, "y": 2},
+                {"matrix": [2, 2], "x": 6, "y": 2},
+                {"matrix": [2, 3], "x": 7, "y": 2},
+                
+                {"matrix": [3, 4], "x": 0, "y": 2},
+                {"matrix": [1, 4], "x": 1, "y": 2},
+                {"matrix": [0, 4], "x": 2, "y": 2},
+                
+                {"matrix": [3, 0], "x": 4, "y": 2},
+                {"matrix": [3, 1], "x": 5, "y": 2},
+                {"matrix": [3, 2], "x": 6, "y": 2},
+                {"matrix": [3, 3], "x": 7, "y": 2}
+            ]
+        }
+    }
+}
