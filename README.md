@@ -12,7 +12,7 @@ This is my first ever contact with PCB design but still I wanted to make somethi
 
 I set out on making the design resemble MU / TH / UR from the ALIEN Movies and games (hence the retro look).
 
-**For more info about the design process check out my [Development Journal](https://blueprint.hackclub.com/projects/13398)!**
+**For more info about the design process check out my [Development Journal](https://blueprint.hackclub.com/projects/13398) or the [Markdown Backup](https://github.com/Martimm500/MU-TH-UR-pad/blob/main/mu-th-ur-pad-journal.md) of it!**
 
 
 ## Design
