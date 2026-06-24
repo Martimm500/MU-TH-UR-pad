@@ -81,7 +81,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
-		(grid_origin 105.626675 8.487754)
+		(grid_origin 59.631863 58.846281)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -99584,9 +99584,9 @@
 		(uuid "4b95edca-3ab6-40ba-96df-32ade746d2f1")
 	)
 	(gr_arc
-		(start 54.202507 60.655752)
-		(mid 54.689627 59.4797)
-		(end 55.865679 58.99258)
+		(start 54.202507 60.509453)
+		(mid 54.689627 59.333401)
+		(end 55.865679 58.846281)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -99636,9 +99636,9 @@
 		(uuid "5c317635-0400-45bc-8c2d-a444da58de25")
 	)
 	(gr_arc
-		(start 75.470739 58.99258)
-		(mid 75.838096 59.0625)
-		(end 76.154082 59.262483)
+		(start 75.470739 58.846281)
+		(mid 75.838096 58.916201)
+		(end 76.154082 59.116184)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -99774,7 +99774,7 @@
 		(uuid "a5d1c694-16b4-46af-9e17-e61ce594377b")
 	)
 	(gr_line
-		(start 76.154082 59.262483)
+		(start 76.154082 59.116213)
 		(end 77.98107 60.972474)
 		(stroke
 			(width 0.05)
@@ -99794,8 +99794,8 @@
 		(uuid "ae838fb9-0d04-4998-ac4e-f7524f5539bd")
 	)
 	(gr_line
-		(start 55.865679 58.99258)
-		(end 65.115713 58.992579)
+		(start 55.865679 58.846281)
+		(end 65.115713 58.84628)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -99825,8 +99825,8 @@
 		(uuid "b9e5262c-668c-4c81-80b3-ab4eff6e2bb1")
 	)
 	(gr_line
-		(start 75.470739 58.99258)
-		(end 65.115713 58.992579)
+		(start 75.470739 58.846282)
+		(end 65.115713 58.846281)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -99857,7 +99857,7 @@
 		(uuid "d30a8cbb-6b30-4df9-9d9f-3fd59ebcf508")
 	)
 	(gr_line
-		(start 54.202507 60.655752)
+		(start 54.202507 60.5094)
 		(end 54.296468 114.561714)
 		(stroke
 			(width 0.05)
